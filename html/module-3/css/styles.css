@@ -1,0 +1,10 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0d041c;
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 14px;
+}
+
+ul {
+  list-style-type: none;
+}
